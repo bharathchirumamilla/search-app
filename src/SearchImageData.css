@@ -1,0 +1,26 @@
+.PageContainer{
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    margin: 20px;
+}
+
+.ContentContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.Summary{
+    padding-left: 20px;
+    margin: 10px;
+    padding-right: 120px;
+}
+
+.buttonContainer {
+    button {
+        background-color: midnight-blue;
+    }
+   
+}

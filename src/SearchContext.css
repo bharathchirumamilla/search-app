@@ -1,0 +1,16 @@
+.SearchContainer{
+    padding: 5px;
+    margin: 5px;
+    padding-top: 2px;
+    background-color: lightgray;
+}
+
+.SearchText{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Button-Container{
+    margin-left: 12px;
+}

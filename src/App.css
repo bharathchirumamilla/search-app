@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  box-sizing: border-box;
+  margin: 5px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-bar {
+  display: flex;
+  justify-content: flex-start;
+  height: 70px;
+  vertical-align: middle;
+  align-content: center;
+  align-items: baseline;
+}
+
+h6{
+  justify-content: center;
+  padding-left: 30px;
+  font-style: normal;
+  font-weight: 600;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  align-items: center;
+}
